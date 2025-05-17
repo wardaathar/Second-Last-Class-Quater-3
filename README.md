@@ -1,4 +1,4 @@
-# SEcon-Last-Class-Quater-3
+# Second-Last-Class-Quater-3
 Python Practice OOPs
 # Class 8 – Object‑Oriented Programming (OOP) in Python
 
