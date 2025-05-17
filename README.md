@@ -48,12 +48,5 @@ my_biryani.serve_biryani()
 
 ---
 
-## 📝 How to Use This Repo
-
-1. **Clone** the repository.
-2. Add your own classes or extend the `Biryani` class to practise inheritance and polymorphism.
-3. Commit your changes with clear messages.
-4. Push to GitHub and share the link with your instructor.
-
 Happy coding! 🚀
 
